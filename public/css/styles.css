@@ -71,7 +71,7 @@ button:disabled {
     box-shadow: 0px 0px 17px 1px #1D1F26;
     background: #F7F7FA;
     padding: 24px;
-    width: 250px;
+    width: 25vW;
 }
 
 .centered-form button {
@@ -79,7 +79,7 @@ button:disabled {
 }
 
 .centered-form input {
-    margin-bottom: 16px;
+    margin-bottom: 10%;
     width: 100%;
 }
 
@@ -115,12 +115,13 @@ button:disabled {
 /* Message Styles */
 
 .message {
-    margin-bottom: 16px;   
+    font-size: large;
+    margin-bottom: 20px;   
 }
 
 .message__name {
     font-weight: 600;
-    font-size: 14px;
+    font-size: 20px;
     margin-right: 8px;
 }
 
